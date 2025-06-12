@@ -1,15 +1,15 @@
 # 📚 StudyMitra – Your Calm and Helpful Study Companion
 
-![GitHub Repo stars](https://img.shields.io/github/stars/THE-S0HAM/studymitra?style=social)
-![GitHub forks](https://img.shields.io/github/forks/THE-S0HAM/studymitra?style=social)
-![License](https://img.shields.io/github/license/THE-S0HAM/studymitra)
+![GitHub Repo stars](https://img.shields.io/github/stars/THE-S0HAM/StudyMitra-AI?style=social)
+![GitHub forks](https://img.shields.io/github/forks/THE-S0HAM/StudyMitra-AI?style=social)
+![License](https://img.shields.io/github/license/THE-S0HAM/StudyMitra-AI)
 ![Built with PartyRock](https://img.shields.io/badge/Built%20With-AWS%20PartyRock-orange?logo=amazon-aws)
 
 ---
 
-## 🌟 What is StudyMitra?
+## 🌟 What is StudyMitra-AI?
 
-**StudyMitra** is a calm and helpful web application designed for students preparing for exams. Built using AWS PartyRock, it offers personalized study support—simplifying content, creating revision plans, and guiding learning step by step.
+**StudyMitra-AI** is a calm and helpful web application designed for students preparing for exams. Built using AWS PartyRock, it offers personalized study support—simplifying content, creating revision plans, and guiding learning step by step.
 
 > This tool isn't meant to overwhelm you. It's made to help you breathe, focus, and move forward—one topic at a time.
 
@@ -28,7 +28,7 @@
 
 ## 🔗 Live App
 
-🎯 Launch StudyMitra on AWS PartyRock:  
+🎯 Launch StudyMitra-AI on AWS PartyRock:  
 👉 [**Try it here**](https://partyrock.aws/u/captain-soham/S0cWYw1Bb/StudyMitra-AI)
 
 ---
@@ -82,6 +82,6 @@ This project is open under the [MIT License](LICENSE).
 
 ## 🧭 A Final Note
 
-StudyMitra is meant to be your quiet guide during exam preparation. It's built to make learning feel lighter, more organized, and a little less lonely. Use it as a companion, and if it helps you stay focused, then its purpose is fulfilled.
+StudyMitra-AI is meant to be your quiet guide during exam preparation. It's built to make learning feel lighter, more organized, and a little less lonely. Use it as a companion, and if it helps you stay focused, then its purpose is fulfilled.
 
 Feel free to contribute, improve, or just pass it on to someone who might need it.
